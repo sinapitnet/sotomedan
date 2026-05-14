@@ -1,0 +1,16 @@
+source:
+  name: source
+  hostname: localhost
+  port: 3306
+  username: sakila
+  password: sakila
+  dbname: sakila
+  dbengine: mysql
+destination:
+  name: destination
+  hostname: 127.0.0.1
+  port: 3306
+  username: sakila
+  password: sakila
+  dbname: sakila_new
+  dbengine: mysql
